@@ -1,4 +1,4 @@
-# <a href="https://www.sartify.com/">Transforming Businesses Into Exponential Growth With Artificial Intelligence.</a>
+# <a href="https://www.sartify.com/">Transforming Businesses Into Exponential Growth With Artificial Data Intelligence.</a>
 <img src="https://raw.githubusercontent.com/SARTIFY/.github/main/sartifyscreenshot.png">
 <br><br>
 
